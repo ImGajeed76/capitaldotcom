@@ -1,0 +1,18 @@
+{
+  "name": "capitaldotcom",
+  "version": "1.0.0",
+  "description": "A package for capital.com api requests",
+  "main": "index.ts",
+  "keywords": [
+    "capital",
+    "traiding",
+    "capital.com",
+    "capital.com",
+    "api"
+  ],
+  "author": "ImGajeed76",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.13.0"
+  }
+}
